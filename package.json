@@ -1,0 +1,11 @@
+{
+  "name": "p-demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ilarion Halushka",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "~20.8.0"
+  }
+}
